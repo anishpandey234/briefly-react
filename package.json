@@ -34,5 +34,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "extensiontest",
+  "main": "index.js",
+  "author": "Pandey <anish.pandey234567@gmail.com>",
+  "license": "MIT"
 }
