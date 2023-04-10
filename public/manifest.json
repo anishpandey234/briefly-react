@@ -22,8 +22,7 @@
   "permissions": [
     "activeTab",
     "contextMenus",
-    "tabs",
-    "storage"
+    "tabs"
   ],
   "background": {
     "service_worker": "background.js"
